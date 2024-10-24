@@ -1,0 +1,15 @@
+{"intents": [
+  {"tag":"greetings",
+      "patterns":["hi","hello","how are you?","hey","what's up?"],
+      "responses":["I'm at your service","Hi!","Hello!","Hola!","Howdy!","Hey!","What's up!","How's it going?","How are you doing?","Nice to see you!","Yo!","Ahoy!","Hi","Hello","Hey","What's up","Nice to see you","Ahoy","Hey there :)","Hi, I'm good","Not so bad"]
+  },
+  {"tag":"bot",
+      "patterns":["who are you?","introduce","what can you do?"],
+      "responses":["Hi I'm P Helper, and I'm Pun's bot.","Yes? I was created by Pun as a Multipurpose Bot!","I'm a M&M, Music Bot and also a Multipurpose, Bot!"]
+  },
+  {"tag":"prefix",
+      "patterns":["what is your prefix?","prefix"],
+      "responses":["Hi! My prefix is []. Type []help for all possible commands.","Hello, my prefix is [], Type []help for help.","Nice to meet you! My prefix is []"]
+  }
+]
+}
