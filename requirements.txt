@@ -51,6 +51,5 @@ typing-extensions==4.1.1
 urllib3==1.26.9
 Werkzeug==2.1.0
 wrapt==1.14.0
-yarl==1.7.2
 youtube-dl==2021.12.17
 zipp==3.7.0
