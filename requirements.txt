@@ -48,7 +48,6 @@ tf-estimator-nightly==2.8.0.dev2021122109
 tqdm==4.63.1
 typing-extensions==4.1.1
 urllib3==1.26.9
-Werkzeug==2.1.0
 wrapt==1.14.0
 youtube-dl==2021.12.17
 zipp==3.7.0
